@@ -1,0 +1,43 @@
+Date: Jan. 23, 2021
+Top 40 most starred GitHub repositories:
+
+1 freeCodeCamp/freeCodeCamp
+2 996icu/996.ICU
+3 vuejs/vue
+4 EbookFoundation/free-programming-books
+5 facebook/react
+6 jwasham/coding-interview-university
+7 tensorflow/tensorflow
+8 sindresorhus/awesome
+9 twbs/bootstrap
+10 kamranahmedse/developer-roadmap
+11 getify/You-Dont-Know-JS
+12 ohmyzsh/ohmyzsh
+13 CyC2018/CS-Notes
+14 donnemartin/system-design-primer
+15 github/gitignore
+16 flutter/flutter
+17 microsoft/vscode
+18 torvalds/linux
+19 airbnb/javascript
+20 TheAlgorithms/Python
+21 Snailclimb/JavaGuide
+22 d3/d3
+23 trekhleb/javascript-algorithms
+24 danistefanovic/build-your-own-x
+25 facebook/react-native
+26 vinta/awesome-python
+27 electron/electron
+28 facebook/create-react-app
+29 jlevy/the-art-of-command-line
+30 golang/go
+31 nodejs/node
+32 justjavac/free-programming-books-zh_CN
+33 ossu/computer-science
+34 kubernetes/kubernetes
+35 denoland/deno
+36 microsoft/terminal
+37 angular/angular
+38 tensorflow/models
+39 microsoft/TypeScript
+40 30-seconds/30-seconds-of-code
